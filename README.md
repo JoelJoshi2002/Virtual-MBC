@@ -11,7 +11,7 @@ To view the project, the following software and hardware requirements must be me
 
 # How to View the Project
 
-The walthrough is uploded to the college website https://www.mbcpeermade.com/
+The walthrough is uploded to the college website 
 
 # Features
 
